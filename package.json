@@ -1,0 +1,17 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "description": "I'll be back",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MB",
+  "license": "ISC",
+  "dependencies": {
+
+  },
+  "devDependencies": {
+    
+  }
+}
